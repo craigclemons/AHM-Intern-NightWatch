@@ -5,6 +5,12 @@
 
 ### Goal: build and extend a set of scripted browser tests
 
+Tools:
+
+* [NightWatch](https://github.com/beatfactor/nightwatch)
+* [Grunt](http://gruntjs.com/)
+* [grunt-nightwatch](https://github.com/gextech/grunt-nightwatch)
+
 Choices:
 
 * As much as possible should be done "in the browser" finding links and
